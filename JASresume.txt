@@ -1,0 +1,52 @@
+# Name
+Joseph Andrew Sodergren
+(Joey, unnofficially)
+
+# Contact
+If you'd like to contact me, create an issue on this repo.
+I'd rather not share my email completely publicly.
+
+------
+
+#### Summary
+I am a graduate of Covington Latin School and am currently studying Computer Science at Wright State University.
+I enjoy Computer Science, particuluarly the field of Software Development, because I view it as an extention of solving logical puzzles.
+A good challenge is my cup of tea.
+
+#### Skills Include
+Reasonable knowledge of Java
+Experience in HTML CSS, and PHP
+Videography, including:
+    - Writing
+    - Directing
+    - Camerawork
+    - Acting
+    - Editing
+Reasonable skill in graphic design
+
+#### Work Experience
+* Freelance Videographer - Ruah Woods - 2018
+    - Filmed lecture regarding Theology of the Body
+    - Returned high-quality edited version of recording
+    - Re-edited an additional 10 videos, mainly lectures, in the same style as previous
+* Freelance Website Designer - clevelandhomebirth.com - 2018-Present
+    - Hired to create informational website for private midwife practice
+    - Complex graphical design, mobile support
+    - Private client messaging system & password protected area
+    - HTML, CSS, and PHP written entirely by hand - no automated web design tools used anywhere in project
+* Work Study - Covington Latin School - 2016-2020
+    - Janitorial work / cleaning
+
+#### School Experience
+* One semester of Java at Covington Latin
+    - Foundations of Java and JavaFX
+* CS 1180 at Wright State
+    - Foundations of Java, especially the Object-Oriented side of Java
+
+#### Honors / Awards
+Eagle Scout rank in Boy Scouts of America (2019)
+Black Belt in Tae Kwon Do (2020)
+National Merit Finalist (2020)
+Commendable placement in Wright State Halloween Coding Competition (2020)
+    - 3rd place overall
+    - 1st place among freshmen
