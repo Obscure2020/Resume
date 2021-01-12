@@ -1,6 +1,6 @@
 # Name
 Joseph Andrew Sodergren
-(Joey, unnofficially)
+(Joey, unofficially)
 
 # Contact
 If you'd like to contact me, create an issue on this repo.
@@ -10,7 +10,7 @@ I'd rather not share my email completely publicly.
 
 #### Summary
 I am a graduate of Covington Latin School and am currently studying Computer Science at Wright State University.
-I enjoy Computer Science, particuluarly the field of Software Development, because I view it as an extention of solving logical puzzles.
+I enjoy Computer Science, particularly the field of Software Development, because I view it as an extension of solving logical puzzles.
 A good challenge is my cup of tea.
 
 #### Skills Include
